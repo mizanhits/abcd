@@ -7,8 +7,6 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1 ,[Jago] Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 ,Star Jalsha(BD)
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 ,Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,Anjan
@@ -23,22 +21,12 @@ http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 ,NANDAN Official
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
-#EXTINF:-1 ,Zee Bangla HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 ,CNN Bangla
-http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 ,আমার বাংলা
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Times TV পাকিস্তান
-http://208.86.19.13:81/513.stream/index.m3u8
 #EXTINF:-1 ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,Time TV
 http://208.86.19.13:81/506.stream/index.m3u8
-#EXTINF:-1 ,R Plus Gold
-http://idvd.multitvsolution.com/idvo/rplusgold.m3u8
-#EXTINF:-1 ,Khushboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1 ,TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,AB Ananda Barta
@@ -47,12 +35,8 @@ http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,MAASRANGA TV official
 http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 ,Khusboo Bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p.m3u8
 #EXTINF:-1 ,B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,Zee Bangla (30min Left)
-https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 #EXTINF:-1 ,COLORS BANGLA HD
 https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,Deepto Tv 🇧🇩
@@ -65,8 +49,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,Star Jalsha HD (30min Left)
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 ,R Plus News
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 ,Zee 24 Ghanta
@@ -85,16 +67,12 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 ,কুমিল্লা-টিভি
-http://103.149.142.133/0.m3u8
 #EXTINF:-1 ,Qatar TV 2 (720p)
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 ,deepto
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 #EXTINF:-1 ,MusicIndia
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 ,food
-https://dai2.xumo.com:443/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 ,CGTN
 http://iptv.prosto.tv:7000/ch84/video.m3u8
 #EXTINF:-1 ,ABP Ananda (akamai)
@@ -117,16 +95,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
-#EXTINF:-1 ,Sports 4
-http://103.102.27.173/live/tvfeed1005/index.m3u8
-#EXTINF:-1 ,Sports 5
-http://103.102.27.173/live/tvfeed1006/index.m3u8
-#EXTINF:-1 ,Music India
-https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/index_9_0.m3u8
-#EXTINF:-1 ,9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 ,MBC Bollywood
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 ,14. Ntv HD
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 ,34. Biswa-Bangla HD
@@ -135,3 +103,103 @@ http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 ,42. Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:-1 ,MORTAL ENGINES (4K)
+http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/4K/English/Mortal%20Engines%20(2018)%202160p%20BluRay.mkv
+#EXTINF:-1 ,WISH (4K)
+http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/4K/Animated/Wish%20(2023)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,THE WOLVERINE (4K)
+http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/4K/English/The%20Wolverine%20(2013)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Fast X (2023) 720p [Dual Audio]
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282023%29/Fast%20X%20%282023%29%20720p%20%5BDual%20Audio%5D/Fast%20X%20%282023%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 ,Doctor Bakshi (2023) 1080p
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282023%29/Doctor%20Bakshi%20%282023%29%201080p/Doctor%20Bakshi%20%282023%29%20Bengali%201080p%20AT%20WEB-DL%20x264%20AAC%20-1337xHD.mkv
+#EXTINF:-1 ,Dasham Avatar (2023) 1080p
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282023%29/Dasham%20Avatar%20%282023%29%201080p/Dasham%20Avatar%20%282023%29%20Bengali%201080p%20WEB-DL%20x264%20ESub%20-Archie.mkv
+#EXTINF:-1 ,Ajob Premer Golpo (2021) 1080p
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282021%29/Ajob%20Premer%20Golpo%20%282021%29%201080p/Ajob%20Premer%20Golpo%20%282021%29%20Bengali%201080p%20WEBRip%20x264%20AAC%20ESub%20-SmHD.mkv
+#EXTINF:-1 ,Kedara (2019) 1080p
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282019%29/Kedara%20%282019%29%201080p/Kedara%20%282019%29%20Bengali%201080p%20HoiChoi%20WEB-DL%20x264%20AAC%20DD2.0%20x264%20-BHD.mp4
+#EXTINF:-1 ,Cosmos Season 1 e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E01%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E02%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E03%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E04%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E05%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E06%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E07%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E08%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e9
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E09%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e10
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E10%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e11
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E11%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e12
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E12%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 1 e13
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E13%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Cosmos Season 2 e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E01.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E02.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E03.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E04.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E05.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E06.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E07.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E08.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e9
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E09.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e10
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E10.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e11
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E11.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e12
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E12.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 ,Cosmos Season 2 e13
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%202/Cosmos.S02E13.720p.AMZN.WEBRip.x264-GalaxyTV.mkv
+#EXTINF:-1 , ManVsWild e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E01%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E02%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E03%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E04%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E05%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E06%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E07%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E08%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e9
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E09%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e10
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E10%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e11
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E11%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e12
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E12%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e13
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E12%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e14
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E14%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e15
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E14%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild e16
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E15%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
