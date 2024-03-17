@@ -53,6 +53,17 @@ http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A
 http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 ,42. Peace-tv-Bangla
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:-1 ,Deen Tv
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 ,Iqra Tv Bangla
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8?nimblesessionid=347503420
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
+
+#EXTINF:-1 ,
 #EXTINF:-1 ,india today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 ,al jajeera
