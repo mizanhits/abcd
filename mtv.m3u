@@ -1,6 +1,54 @@
 #EXTM3U
+#EXTINF:-1 ,BTV
+https://edge4.bioscopelive.com/hls/anonymous/kjnbWyBmWEo1CFgzBVaiVw/1710660526/live-btv-world-tv_hi/index.m3u8
+#EXTINF:-1 ,Chanel I
+https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,Ntv
+https://edge4.bioscopelive.com/hls/anonymous/J_zZNQPE69yyNEzTLCZa6w/1710660442/live-n-tv_hi/index.m3u8
+#EXTINF:-1 ,Jomuna Tv
+https://edge4.bioscopelive.com/hls/anonymous/VlBvWSUeA1P-2A0jUTz2GA/1710660277/live-jamuna-tv_hi/index.m3u8
+#EXTINF:-1 ,Somoi Tv
+https://edge4.bioscopelive.com/hls/anonymous/ECul57dOC2kzNrCphzLk8A/1710660248/live-somoy-news-tv_hi/index.m3u8
+#EXTINF:-1 ,DBC
+https://edge4.bioscopelive.com/hls/anonymous/cAoHWCpCCPp0m8GDZRg-kg/1710660208/live-dbc-news-hd_hi/index.m3u8
+#EXTINF:-1 ,SATE
+https://edge4.bioscopelive.com/hls/anonymous/9q8xEOj5LoBBk-T2wmdRQg/1710660623/live-sa-tv-hd_hi/index.m3u8
+#EXTINF:-1 ,Asia Tv
+https://edge4.bioscopelive.com/hls/anonymous/C2xfiYjlLjx7QtXWhqSxXg/1710660665/live-asian-tv-hd_hi/index.m3u8
+#EXTINF:-1 ,Ptv
+https://dan.zcast720.com:8034/view/hls/Zp-luKCFfuWsQgSU58u_pA/1710659116/ptvpk.m3u8
+#EXTINF:-1 ,S BANGLS
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:-1 ,CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
+#EXTINF:-1 ,Ekuse Tv
+https://edge4.bioscopelive.com/hls/anonymous/MkF-ASviBfxyxwfqkeWO-A/1710660553/live-ekushey-tv_hi/index.m3u8
+#EXTINF:-1 ,india today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
+#EXTINF:-1 ,al jajira
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 ,News 24
+https://edge4.bioscopelive.com/hls/anonymous/GA_sKFi6F5vCIRTkmir-jg/1710659867/live-news-24-hd_hi/index.m3u8
+#EXTINF:-1 ,[Jago] News
+https://edge4.bioscopelive.com/hls/anonymous/_2tegA-p-vvNPuzWLEMdug/1710651976/live-bangla-tv_hi/index.m3u8
+#EXTINF:-1 ,[Jago] ATN
+https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,[Jago] Discobery Bangla
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
 #EXTINF:-1 ,[Jago] EKUSHEY TV
 https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 ,[Jago] Sony 8
+https://edge4.bioscopelive.com/hls/anonymous/VCqsGuPCj3XpURVVLrApeg/1710660319/live-sony-aath-sd_hi/index.m3u8
+#EXTINF:-1 ,[Jago] Zee Bangla
+https://edge4.bioscopelive.com/hls/anonymous/3vRRahtwZV9VZrEWpq2c_Q/1710660375/zee_bangla_9723_hi/index.m3u8
+#EXTINF:-1 ,s foolball
+https://po1.ainakwalajeen.com:999/hls/superfotball.m3u8?md5=yVqirql6U7fYwgaoNNdOVw&expires=1710665483
+#EXTINF:-1 ,[Jago] Chanel 24
+https://live-ak.vimeocdn.com/exp=1710661718~acl=%2Ff28d9d63-aec8-4a43-a2e5-604c835774ab%2F%2A~hmac=d1851feeaffcd06e2401fe8b2e3b3874aebce22f539cb90cf1b84abc89a30cde/f28d9d63-aec8-4a43-a2e5-604c835774ab/chunklist_b416000.m3u8?max_segments=10
+#EXTINF:-1 , APB
+https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 #EXTINF:-1 ,[Jago] Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
 #EXTINF:-1 ,[Jago] Dubai Sports 2
@@ -31,6 +79,14 @@ http://208.86.19.13:81/506.stream/index.m3u8
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,AB Ananda Barta
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
+#EXTINF:-1 ,Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 ,9xm
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 ,India Music
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
+#EXTINF:-1 ,9XM jalwa
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,GaziTV
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,MAASRANGA TV official
@@ -45,8 +101,6 @@ https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 ,DD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 ,Kappa TV
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 ,R Plus News
@@ -63,12 +117,8 @@ http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 ,Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 ,Qatar TV 2 (720p)
-https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
 #EXTINF:-1 ,deepto
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
 #EXTINF:-1 ,MusicIndia
@@ -81,20 +131,12 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
 #EXTINF:-1 ,Sony Aath
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
-#EXTINF:-1 ,CHANNEL 9 HD [BD] (1)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/111.m3u8
 #EXTINF:-1 ,ANNANDA BARTA
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w1725375788.m3u8
-#EXTINF:-1 ,Discovery HD [BANGLA]
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
 #EXTINF:-1 ,SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#EXTINF:-1 ,HBTV
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 ,ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 ,CHANNEL I
-http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 ,14. Ntv HD
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 ,34. Biswa-Bangla HD
@@ -119,6 +161,10 @@ http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282023%29/Dasham%20Av
 http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282021%29/Ajob%20Premer%20Golpo%20%282021%29%201080p/Ajob%20Premer%20Golpo%20%282021%29%20Bengali%201080p%20WEBRip%20x264%20AAC%20ESub%20-SmHD.mkv
 #EXTINF:-1 ,Kedara (2019) 1080p
 http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282019%29/Kedara%20%282019%29%201080p/Kedara%20%282019%29%20Bengali%201080p%20HoiChoi%20WEB-DL%20x264%20AAC%20DD2.0%20x264%20-BHD.mp4
+#EXTINF:-1 ,Avatar-The Way of Water (2022) 720p [Dual Audio]
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/Avatar-The%20Way%20of%20Water%20%282022%29%20720p%20%5BDual%20Audio%5D/Avatar%20The%20Way%20of%20Water%20%282022%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 ,The Last Kingdom-Seven Kings Must Die (2023) 720p NF [Dual Audio]
+http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282023%29/The%20Last%20Kingdom-Seven%20Kings%20Must%20Die%20%282023%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Last%20Kingdom%20Seven%20Kings%20Must%20Die%20%282023%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
 #EXTINF:-1 ,Cosmos Season 1 e1
 http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-Possible%20Worlds%20%28TV%20Documentary%202020%E2%80%93%20%29%20720p%20%5BDual%20Audio%5D/Season%201/Cosmos%20Possible%20Worlds%20S01E01%20%20720p%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
 #EXTINF:-1 ,Cosmos Season 1 e2
@@ -203,3 +249,93 @@ http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documenta
 http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E14%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
 #EXTINF:-1 ,ManVsWild e16
 http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%201/Man%20vs.%20Wild%20S01E15%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E01%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E02%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E03%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E04%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E05%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E06%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E07%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E07%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e9
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E09%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e10
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E10%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e11
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E11%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e12
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E12%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild Se2 e13
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%202/Man%20vs.%20Wild%20S02E13%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E01%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E02%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E03%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E04%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E05%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E06%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E07%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E08%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e9
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E09%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e10
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E10%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e11
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E11%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,ManVsWild se 3 e12
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Man%20vs.%20Wild%20%28TV%20Documentary%202006%E2%80%932020%29%20720p%20%5BDual%20Audio%5D/Season%203/Man%20vs.%20Wild%20S03E12%20%20720p%20AMZN%20WEBRip%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%202.0%5D%20-mkvC.mkv
+#EXTINF:-1 ,Our Planet e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E01%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E02%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E03%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E04%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E05%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E06%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E07%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet e8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%201/Our%20Planet%20S01E08%20%201080p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv
+#EXTINF:-1 ,Our Planet se2 e1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%202/Our%20Planet%20S02E01%20%201080p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-DLHub.mkv
+#EXTINF:-1 ,Our Planet se2 e2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%202/Our%20Planet%20S02E02%20%201080p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-DLHub.mkv
+#EXTINF:-1 ,Our Planet se2 e3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%202/Our%20Planet%20S02E03%20%201080p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-DLHub.mkv
+#EXTINF:-1 ,Our Planet se2 e4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Our%20Planet%20%28TV%20Documentary%202019%E2%80%932023%29%201080p%20NF%20%5BDual%20Audio%5D/Season%202/Our%20Planet%20S02E04%20%201080p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-DLHub.mkv
+#EXTINF:-1 ,Life Of Our Planet E1
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E01%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E2
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E02%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E3
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E03%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E4
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E04%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E5
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E05%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E6
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E06%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E7
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E07%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
+#EXTINF:-1 ,Life Of Our Planet E8
+http://172.16.50.9/DHAKA-FLIX-9/Documentary/Life%20on%20Our%20Planet%20%28TV%20Documentary%202023%E2%80%93%20%29%20720p%20NF%20%5BDual%20Audio%5D/Season%201/Life%20on%20Our%20Planet%20S01E08%20%20720p%20NF%20WEBRip%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv
