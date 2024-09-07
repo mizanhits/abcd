@@ -1,95 +1,42 @@
 #EXTM3U
-#EXTINF:-1 ,BTV
-#EXTINF:-1 ,Chanel I
-https://livess.jagobd.com.bd/live-orgin/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,[Jago] ATN
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Ntv
-https://edge4.bioscopelive.com/hls/anonymous/J_zZNQPE69yyNEzTLCZa6w/1710660442/live-n-tv_hi/index.m3u8
-#EXTINF:-1 ,Jomuna Tv
-https://edge4.bioscopelive.com/hls/anonymous/VlBvWSUeA1P-2A0jUTz2GA/1710660277/live-jamuna-tv_hi/index.m3u8
-#EXTINF:-1 ,Somoi Tv
-https://edge4.bioscopelive.com/hls/anonymous/ECul57dOC2kzNrCphzLk8A/1710660248/live-somoy-news-tv_hi/index.m3u8
-#EXTINF:-1 ,News 24
-https://edge4.bioscopelive.com/hls/anonymous/GA_sKFi6F5vCIRTkmir-jg/1710659867/live-news-24-hd_hi/index.m3u8
-#EXTINF:-1 ,DBC
-https://edge4.bioscopelive.com/hls/anonymous/cAoHWCpCCPp0m8GDZRg-kg/1710660208/live-dbc-news-hd_hi/index.m3u8
-#EXTINF:-1 ,SATE
-https://edge4.bioscopelive.com/hls/anonymous/9q8xEOj5LoBBk-T2wmdRQg/1710660623/live-sa-tv-hd_hi/index.m3u8
-#EXTINF:-1 ,Asia Tv
-https://edge4.bioscopelive.com/hls/anonymous/C2xfiYjlLjx7QtXWhqSxXg/1710660665/live-asian-tv-hd_hi/index.m3u8
+#EXTINF:-1,EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF:-1,Animal Planet Multi Quality
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
 #EXTINF:-1 ,S BANGLS
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,Deepto Tv 🇧🇩
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1 ,Maasranga TV
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 ,Deepto Tv
-https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-720p.m3u8
-#EXTINF:-1 ,Maasranga
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,BANGLAVISION
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,BOISHAKHI TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Ekattor TV HD
-http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,Gaan Bangla
-http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,[Jago] News
-https://edge4.bioscopelive.com/hls/anonymous/_2tegA-p-vvNPuzWLEMdug/1710651976/live-bangla-tv_hi/index.m3u8
-#EXTINF:-1 ,DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
-#EXTINF:-1 ,CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/a34479f36e18de8ab839234f2a59ab7c.m3u8
-#EXTINF:-1 ,Ekuse Tv
-https://edge4.bioscopelive.com/hls/anonymous/MkF-ASviBfxyxwfqkeWO-A/1710660553/live-ekushey-tv_hi/index.m3u8
-#EXTINF:-1 ,34. Biswa-Bangla HD
-http://176.119.29.52/live.ts?channelId=90253&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 ,39. Atn News Bangla
-http://176.119.29.52/live.ts?channelId=83&uid=5060&deviceMac=00:1A:79:73:9C:A1
-#EXTINF:-1 ,42. Peace-tv-Bangla
-http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
-#EXTINF:-1 ,Deen Tv
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
-#EXTINF:-1 ,Iqra Tv Bangla
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8?nimblesessionid=347503420
-#EXTINF:-1 ,,Chanel 24
-https://edge4.bioscopelive.com/hls/anonymous/OOnOEQ02-apmD6Mge49AEA/1710698034/live-channel-24-tv_mid/index.m3u8
-#EXTINF:-1 ,Independent
-https://live.bongobd.com/hls/VdquBiSR628AuST7Ts0Zfw/1710698520/sky-independent-tv_hi/index.m3u8
-#EXTINF:-1 ,Ekhon Tv
-https://live.bongobd.com/hls/s3TtHYB3qLE0cMzhWRfrNA/1710698626/sky-ekhon-tv_low/index.m3u8
-#EXTINF:-1 , Russia Today
-https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 ,india today
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
-#EXTINF:-1 ,al jajeera
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 ,NANDAN Official
-https://web.nandansyst.com/hls/nandan_mid/index.m3u8
-#EXTINF:-1 ,[Jago] Discobery Bangla
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
-#EXTINF:-1 ,[Jago] EKUSHEY TV
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 , Zee Movie
-https://live.bongobd.com/hls/OSDvH5QyTuxcXAp0m1RCRQ/1710698800/zee_bangla_cinema_2875_mid/index.m3u8
-#EXTINF:-1 ,[Jago] Sony 8
-https://edge4.bioscopelive.com/hls/anonymous/VCqsGuPCj3XpURVVLrApeg/1710660319/live-sony-aath-sd_hi/index.m3u8
-#EXTINF:-1 ,[Jago] Zee Bangla
-https://edge4.bioscopelive.com/hls/anonymous/3vRRahtwZV9VZrEWpq2c_Q/1710660375/zee_bangla_9723_hi/index.m3u8
-#EXTINF:-1 ,APB
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
+#EXTINF:-1,CBSN Newyork
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@amarnettv.live
+#EXTINF:-1,Sky News Extra
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?@amarnettv.live
+#EXTINF:-1,Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@amarnettv.live
+#EXTINF:-1,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?@amarnettv.live
+#EXTINF:-1,CNA SD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
+#EXTINF:-1,CGTN
+https://live.cgtn.com/1000/prog_index.m3u8?@amarnettv.live
+#EXTINF:-1,Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1,Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8?@amarnettv.live
+#EXTINF:-1,NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?@amarnettv.live
+#EXTINF:-1,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8?@amarnettv.live
+#EXTINF:-1,Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8?@amarnettv.live
+#EXTINF:-1,Dunya News
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
+#EXTINF:-1,Sangeet Bangla(BD)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 ,[Jago] Peace TV ENG
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ,[Jago] Dubai Sports 2
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 ,[Jago] Dubai Sports 3
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1 ,Colors Bangla HD
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 ,Anjan
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 ,Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 ,ABP Ananda
@@ -98,16 +45,10 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 ,Bangla Jago
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1 ,আমার বাংলা
-https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 ,Nandan TV
-https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,Time TV
 http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 ,TBN 24 USA
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,AB Ananda Barta
-http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1 ,Zoom
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,9xm
@@ -116,34 +57,14 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 ,9XM jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 ,GaziTV
-http://103.102.27.173/live/tvfeed1001/index.m3u8
-#EXTINF:-1 ,MAASRANGA TV official
-http://103.118.79.22:1935/live/maasrangalive/HODMTV/1.m3u8
-#EXTINF:-1 ,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,COLORS BANGLA HD
-https://catchup.yuppcdn.net:443/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1 ,DD Sports(BD3)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 ,Zee 24 Ghanta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF:-1 ,TV9 Bangla (720p)
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 ,MusicIndia
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
-#EXTINF:-1 ,Sony Aath
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6641/index.m3u8
-#EXTINF:-1 ,ANNANDA BARTA
-http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w1725375788.m3u8
-#EXTINF:-1 ,SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#EXTINF:-1 ,ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 ,MORTAL ENGINES (4K)
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/4K/English/Mortal%20Engines%20(2018)%202160p%20BluRay.mkv
 #EXTINF:-1 ,WISH (4K)
