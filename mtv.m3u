@@ -31,20 +31,104 @@ http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/4K/English/Mortal%20Engines
 http://10.16.100.214/iccftps14/iccftps14sasd7/Movies/4K/Animated/Wish%20(2023)%202160p%20WEBDL.mkv
 #EXTINF:-1 ,THE WOLVERINE (4K)
 http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/4K/English/The%20Wolverine%20(2013)%202160p%20WEBDL.mkv
-#EXTINF:-1 ,Fast X (2023) 720p [Dual Audio]
-http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282023%29/Fast%20X%20%282023%29%20720p%20%5BDual%20Audio%5D/Fast%20X%20%282023%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 ,Doctor Bakshi (2023) 1080p
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282023%29/Doctor%20Bakshi%20%282023%29%201080p/Doctor%20Bakshi%20%282023%29%20Bengali%201080p%20AT%20WEB-DL%20x264%20AAC%20-1337xHD.mkv
-#EXTINF:-1 ,Dasham Avatar (2023) 1080p
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282023%29/Dasham%20Avatar%20%282023%29%201080p/Dasham%20Avatar%20%282023%29%20Bengali%201080p%20WEB-DL%20x264%20ESub%20-Archie.mkv
-#EXTINF:-1 ,Ajob Premer Golpo (2021) 1080p
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282021%29/Ajob%20Premer%20Golpo%20%282021%29%201080p/Ajob%20Premer%20Golpo%20%282021%29%20Bengali%201080p%20WEBRip%20x264%20AAC%20ESub%20-SmHD.mkv
-#EXTINF:-1 ,Kedara (2019) 1080p
-http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282019%29/Kedara%20%282019%29%201080p/Kedara%20%282019%29%20Bengali%201080p%20HoiChoi%20WEB-DL%20x264%20AAC%20DD2.0%20x264%20-BHD.mp4
-#EXTINF:-1 ,Avatar-The Way of Water (2022) 720p [Dual Audio]
-http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282022%29/Avatar-The%20Way%20of%20Water%20%282022%29%20720p%20%5BDual%20Audio%5D/Avatar%20The%20Way%20of%20Water%20%282022%29%20720p%20BluRay%20x264%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
-#EXTINF:-1 ,The Last Kingdom-Seven Kings Must Die (2023) 720p NF [Dual Audio]
-http://172.16.50.7/DHAKA-FLIX-7/English%20Movies/%282023%29/The%20Last%20Kingdom-Seven%20Kings%20Must%20Die%20%282023%29%20720p%20NF%20%5BDual%20Audio%5D/The%20Last%20Kingdom%20Seven%20Kings%20Must%20Die%20%282023%29%20720p%20NF-WEB%20x264%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv
+#EXTINF:-1 ,Bhool Chuk Maaf (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/4K/Hindi/Bhool%20Chuk%20Maaf%20(2025)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Deadpool & Wolverine (4K)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/4K/English/Deadpool%20&%20Wolverine%20(2024)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Avengers Endgame (4K)
+http://10.16.100.206/ftps3/ftps3d3/Movies/4K/English/Avengers%20Endgame%20(2019)%202160p%20UHD%20BluRay.mkv
+#EXTINF:-1 ,Avengers Infinity War (4K)
+http://10.16.100.245/ftps2d1/Movies/Exclusive%20HD/Avengers%20Infinity%20War%20(2018)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Avatar The Way of Water (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd7/Movies/4K/Avatar%20The%20Way%20of%20Water%20(2022%20)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Avatar 4k
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,John Wick Chapter 2
+http://10.16.100.245/ftps2d2/Movies/Exclusive%20HD/John%20Wick%20Chapter%202%20(2017)%202160p%20%20BluRay.mkv
+#EXTINF:-1 ,John Wick Chapter 3 Parabellum (4K)
+http://10.16.100.206/ftps3/ftps3d6/Movies/4K/English/John%20Wick%20Chapter%203%20Parabellum%20(2019)%202160p%20UHD%20BluRay.mkv
+#EXTINF:-1 ,John Wick Chapter 4 (4K)
+http://10.16.100.213/iccftps13/iccftps13sasd8/Movies/4K/English/John%20Wick%20Chapter%204%20(2023)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Oppenheimer (4K)
+http://10.16.100.206/ftps3/ftps3d5/Movies/4K/English/Oppenheimer%20(2023)%204K%20UHD%20BluRay%202160p%20HDR%20DTSHD%20MA%205.1%20H.265.mkv
+#EXTINF:-1 ,The Batman (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/4K/English/The%20Batman%20(2022)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Black Adam (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/4K/English/Black%20Adam%20(2022)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Blue Beetle (4K)
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/4K/English/Blue%20Beetle%20(2023)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Mission Impossible III (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd1/Movies/4K/English/Mission%20Impossible%20III%20(2006)%202160p%20UHD%20BluRay%20X265%2010bit%20HDR%20TrueHD%205.1.mkv
+#EXTINF:-1 ,Mission Impossible II (4K)
+http://10.16.100.206/ftps3/ftps3d2/Movies/4K/English/Mission%20Impossible%20II%20(2000)%202160p%20UHD%20BluRay%20X265%2010bit%20HDR%20TrueHD%205.1.mkv
+#EXTINF:-1 ,Mission Impossible Rogue Nation (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/4K/English/Mission%20Impossible%20Rogue%20Nation%20(2015)%202160p%20UHD%20BluRay%20X265%2010bit%20HDR%20TrueHD%207.1%20Atmos.mkv
+#EXTINF:-1 ,Mission Impossible Ghost Protocol
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Mission%20Impossible%20Ghost%20Protocol%20(2011)%202160p%20UHD%20BluRay%20X265%2010bit%20HDR%20TrueHD%207.1.mkv
+#EXTINF:-1 ,Mission Impossible Fallout (4K)
+http://10.16.100.202/ftps10/iccftps10sasd1/Movies/4K/English/Mission%20Impossible%20Fallout%20(2018)%202160p%20UHD%20BluRay%20X265%2010bit%20HDR%20TrueHD%207.1%20Atmos.mkv
+#EXTINF:-1 ,War for the Planet of the Apes (4K)
+http://10.16.100.202/ftps10/iccftps10sasd7/Movies/4K/English/War%20For%20The%20Planet%20Of%20The%20Apes%20(2017)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Moonfall (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd9/Movies/4K/English/Moonfall%20(2022)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Oblivion (4K)
+http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/4K/English/Oblivion%20(2013)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Dunkirk (4K)
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/4K/English/Dunkirk%20(2017)%202160p%20UHD%20BluRay.mkv
+#EXTINF:-1 ,Geostorm (4K)
+http://10.16.100.202/ftps10/iccftps10sasd8/Movies/4K/English/Geostorm%20(2017)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Tenet (4K)
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/4K/English/Tenet%20(2020)%202160p%20UHD%20BluRay.mkv
+#EXTINF:-1 ,The Wandering Earth II
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/4K/Other%20Foreign/China/The%20Wandering%20Earth%20II%20(Liu%20lang%20di%20qiu%202)%20(2023)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Batman v Superman Dawn of Justice (4K)
+http://10.16.100.202/ftps10/iccftps10sasd3/Movies/4K/English/Batman%20v%20Superman%20Dawn%20of%20Justice%20(2016)%20Extended%20Max%202160p%20UHD%20BluRay%20x265%2010bit%20HDR%20TrueHD%207.1%20Atmos.mkv
+#EXTINF:-1 ,Edge of Tomorrow (4K)
+http://10.16.100.214/iccftps14/iccftps14sasd5/Movies/4K/Animated/Incredibles%202%20(2018)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Forrest Gump (1994) (4K)
+http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/4K/English/Forrest%20Gump%20(1994)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Incredibles 2 (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Lightyear (4K)
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/4K/Animated/Lightyear%20(2022)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Jurassic World Dominion (4K)
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/4K/English/Jurassic%20World%20Dominion%20(2022)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Avatar 4k
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Avatar 4k
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Avatar 4k
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Avatar 4k
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Avatar%20(2009)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Spider Man No Way Home (4K)
+http://10.16.100.213/iccftps13/iccftps13sasd10/Movies/4K/English/Spider%20Man%20No%20Way%20Home%20(2021)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Man of Steel (4K)
+http://10.16.100.202/ftps10/iccftps10sasd4/Movies/4K/English/Man%20of%20Steel%20(2013)%202160p%20UHD%20BluRay%20x265%2010bit%20HDR%20TrueHD%207.1%20Atmos.mkv
+#EXTINF:-1 ,Ant Man and the Wasp (4K)
+http://10.16.100.202/ftps10/iccftps10sasd10/Movies/4K/English/Ant%20Man%20And%20The%20Wasp%20(2018)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Final Destination Bloodlines (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd4/Movies/4K/English/Final%20Destination%20Bloodlines%20(2025)%202160p%20UHD%20BluRay%20REMUX%20DV%20P7%20HDR%20MULTi%20TrueHD%20Atmos%20H265.mkv
+#EXTINF:-1 ,Black Panther Wakanda Forever (4K)
+http://10.16.100.202/ftps10/iccftps10sasd9/Movies/4K/English/Black%20Panther%20Wakanda%20Foreve%20(2022)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Doctor Strange in the Multiverse of Madness
+http://10.16.100.212/iccftps12/iccftps12sasd8/Movies/4K/English/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%20(2022)%202160p%20WEBDL.mkv
+#EXTINF:-1 ,Spider-Man Far from Home
+http://10.16.100.202/ftps10/iccftps10sasd6/Movies/4K/English/Spider-Man%20Far%20From%20Home%20(2019)%202160p%20TrueHD%20BluRay.mkv
+#EXTINF:-1 ,Captain America Civil War
+http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/4K/English/Captain%20America%20Civil%20War%20(2016)%202160p%20x265%20HEVC%2010bit%20HDR%20UHD%20BluRay%20Atmos%20TrueHD%207.1.mkv
+#EXTINF:-1 ,Thor The Dark World
+http://10.16.100.214/iccftps14/iccftps14sasd4/Movies/4K/English/Thor%20The%20Dark%20World%20(2013)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Spider-Man Homecoming
+http://10.16.100.206/ftps3/ftps3d7/Movies/4K/English/Spider-Man%20Homecoming%20(2017)%202160p%20UHD%20BluRay.mkv
+#EXTINF:-1 ,Doctor Strange (4K)
+http://10.16.100.206/ftps3/ftps3d6/Movies/4K/English/Doctor%20Strange%20(2016)%202160p%20DTSHD%20BluRay.mkv
+#EXTINF:-1 ,Shang Chi and the Legend of the Ten Rings (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/4K/English/Shang%20Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%20(2021)%202160p%20BluRay.mkv
+#EXTINF:-1 ,Guardians of the Galaxy Vol. 2 (4K)
+http://10.16.100.206/ftps3/ftps3d2/Movies/4K/English/Guardians%20of%20The%20Galaxy%20Vol%202%20(2017)%202160p%20UHD%20BluRay%20x265%2010bit%20HDR%20TrueHD%207.1%20Atmos.mkv
+#EXTINF:-1 ,Interstellar (4K)
+http://10.16.100.212/iccftps12/iccftps12sasd10/Movies/4K/English/Interstellar%20(2014)%202160p%20UHD%20BluRay%20IMAX%20DV%20HEVC%20TrueHD%207.1%20Atmos%20x265.mkv
 #EXTINF:-1 ,Cosmos Season 1 e1
 http://172.16.50.9/DHAKA-FLIX-9/Documentary/Cosmos-A%20Spacetime%20Odyssey%20%28TV%20Documentary%202014%E2%80%93%20%29%20720p/Season%201/Cosmos.A.Spacetime.Odyssey.S01E01.720p.BluRay.x264.DTS.5.1.ESub-MkvCage.mkv
 #EXTINF:-1 ,Cosmos Season 1 e2
